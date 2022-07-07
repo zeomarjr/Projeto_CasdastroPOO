@@ -1,5 +1,5 @@
 # teste github agora
 
-from menu_cadastroProd import *
+from db_menu_EstoqProd import *
 
-menu_cadastroProd = Menu()
+menu_cadastroProd = DB_Menu()
